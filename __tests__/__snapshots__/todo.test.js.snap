@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`GET /todos should match the todos snapshot 1`] = `
+[
+  {
+    "id": 1,
+    "task": "Learn testing 🎯",
+  },
+]
+`;
